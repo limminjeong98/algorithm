@@ -22,3 +22,11 @@ print('각 원소의 부모: ', end='')
 for i in range(1, v+1):
     print(find_parent(parent, i), end=' ')
 print()
+
+# 6 4
+# 1 4
+# 2 3
+# 2 4
+# 5 6
+
+# 1 1 1 1 5 5
